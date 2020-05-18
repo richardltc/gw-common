@@ -1,4 +1,4 @@
-package gw-common
+package gwcommon
 
 import (
 	"bufio"
